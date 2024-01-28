@@ -1,2 +1,3 @@
 # CS3704 SE Basics Workshop
-Hello!" Update: $(date)" 
+Kian Pierce
+Hello GitHub!" Update: $(date)" 
