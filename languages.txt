@@ -1,0 +1,7 @@
+1: 
+My favorite programming language is C++ because i find it the easiest to set up quick, 
+simple projects and applications. I find it very user-friendly.
+
+2:
+I have the most experience with Java. This is because all of my CS classes have been 
+taught in java, but I have had several classes taught in C++ which I enjoyed.
